@@ -1,0 +1,12 @@
+<taglib>
+	<tlib-version>1.0</tlib-version>
+	<jsp-version>2.3</jsp-version>
+	
+     <function>
+		<name>display</name>
+        <function-class>com.abc.functions.Test</function-class>
+         <function-signature>
+			java.lang.String display(java.lang.String) 
+		</function-signature>
+     </function>
+</taglib>
